@@ -1,0 +1,12 @@
+*{
+  margin: 0;
+  padding: 0;
+  background-color: black;
+}
+
+.time{
+  color: white;
+  text-align: center;
+  padding: 250px;
+  
+}
